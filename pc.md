@@ -32,3 +32,6 @@ A merge conflict occurs when competing changes are made to the same line of a fi
 8. How do you resolve a merge conflict?
 To resolve a merge conflict caused by competing changes to a line, you must choose which changes are actually incorporated in a new commit.
 When the merge conflict is caused by a deleted file, you must choose whether to delete or keep said file in a new commit.
+
+
+
